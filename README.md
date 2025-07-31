@@ -1,5 +1,7 @@
 ![GitHub Repo](https://img.shields.io/badge/Research-Paper-blue)
 
+🔜 Code and other related files will be released upon acceptance...
+
 # An Invasive Embedding Model in Favor of Low-Resource Languages Understanding
 
 ## 📌 Overview
