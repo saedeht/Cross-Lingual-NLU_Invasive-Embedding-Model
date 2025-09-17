@@ -1,6 +1,6 @@
 ![GitHub Repo](https://img.shields.io/badge/Research-Paper-blue)
 
-🔜 Code and other related files will be released upon acceptance...
+🔜 More details will be released upon acceptance...
 
 # An Invasive Embedding Model in Favor of Low-Resource Languages Understanding
 
@@ -15,7 +15,7 @@ The training process consists of a **strategic adversarial learning phase**, whe
 2. **Discriminator** → Evaluates representations to detect language identity.  
 3. **Decoder** → Reconstructs the original input, ensuring semantic preservation.  
 
-## 📊 Results  
+## 📊 Main Results  
 Our model demonstrates **strong zero-shot performance** across multiple languages on **Facebook-multilingual (XTOD) and Persian-ATIS** datasets:  
 
 | **Language** | **ID Accuracy** | **SF F1-Score** |  
