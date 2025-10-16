@@ -1,6 +1,5 @@
 ![GitHub Repo](https://img.shields.io/badge/Research-Paper-blue)
-
-🔜 More details will be released upon acceptance...
+[![DOI](https://img.shields.io/badge/DOI-10.1109%2FACCESS.2025.3574115-blue)](https://dl.acm.org/doi/10.1145/3771926)
 
 # An Invasive Embedding Model in Favor of Low-Resource Languages Understanding
 
@@ -26,13 +25,12 @@ Our model demonstrates **strong zero-shot performance** across multiple language
 
 ## 📌 Citation
 
-If you use this work, please cite our [paper]() as follows:
-(This will be updated once the paper is accepted.)
+If you use this work, please cite our [paper](https://dl.acm.org/doi/10.1145/3771926) as follows:
 ```bibtex
 @article{tahery2025,
   author    = {Saedeh Tahery and Saeed Farzi},
   title     = {An Invasive Embedding Model in Favor of Low-Resource Languages Understanding},
-  journal   = {under-review},
+  journal   = {ACM Transactions on Asian and Low-Resource Language Information Processing},
   year      = {2025},
-  url       = {will be updated}
+  url       = {https://dl.acm.org/doi/10.1145/3771926}
 }
