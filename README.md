@@ -3,8 +3,19 @@
 
 # An Invasive Embedding Model in Favor of Low-Resource Languages Understanding
 
-## 📌 Overview
-  
+📌 If you use this work, please cite our [paper](https://dl.acm.org/doi/10.1145/3771926) as follows:
+```bibtex
+@article{tahery2025,
+  author    = {Saedeh Tahery and Saeed Farzi},
+  title     = {An Invasive Embedding Model in Favor of Low-Resource Languages Understanding},
+  journal   = {ACM Transactions on Asian and Low-Resource Language Information Processing},
+  year      = {2025},
+  url       = {https://dl.acm.org/doi/10.1145/3771926}
+}
+```
+
+## 🗺️ Overview
+
 Cross-lingual natural language understanding (**NLU**) tasks, such as **intent detection (ID) and slot filling (SF)**, suffer from performance degradation due to **language-specific information** embedded in multilingual pre-trained models. This is especially problematic in data-scarce scenarios.  
 We propose an **encoder-decoder model with adversarial learning** that eliminates language-specific information while preserving semantic meaning to tackle this issue. Our approach enhances **knowledge transferability** across languages, leading to better zero-shot cross-lingual performance.  
 
@@ -23,14 +34,3 @@ Our model demonstrates **strong zero-shot performance** across multiple language
 | **Thai**     | **82.61**       | **17.60**       |  
 | **Persian**  | **86.45**       | **59.60**       |  
 
-## 📌 Citation
-
-If you use this work, please cite our [paper](https://dl.acm.org/doi/10.1145/3771926) as follows:
-```bibtex
-@article{tahery2025,
-  author    = {Saedeh Tahery and Saeed Farzi},
-  title     = {An Invasive Embedding Model in Favor of Low-Resource Languages Understanding},
-  journal   = {ACM Transactions on Asian and Low-Resource Language Information Processing},
-  year      = {2025},
-  url       = {https://dl.acm.org/doi/10.1145/3771926}
-}
