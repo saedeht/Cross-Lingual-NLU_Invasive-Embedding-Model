@@ -13,6 +13,21 @@
   url       = {https://dl.acm.org/doi/10.1145/3771926}
 }
 ```
+<a href="https://dl.acm.org/doi/10.1145/3771926?cid=99660169355" 
+   style="
+       display:inline-block;
+       padding:10px 16px;
+       background:#0059B3;
+       color:white;
+       text-decoration:none;
+       border-radius:6px;
+       font-size:15px;
+       font-weight:500;
+       font-family:sans-serif;
+   ">
+  ACM Author-Izer Service: Download Paper (PDF)
+</a>
+
 
 ## 🗺️ Overview
 
